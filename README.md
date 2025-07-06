@@ -2,8 +2,6 @@
 
 A modern Next.js application that leverages **World ID verification** for secure authentication and enables users to connect with each other through a sophisticated friend management system. Built with cutting-edge technologies including Next.js 14, TypeScript, Tailwind CSS, and Aceternity UI.
 
-![World ID Pool Banner](https://via.placeholder.com/800x200/0f172a/ffffff?text=World+ID+Pool)
-
 ## 🚀 Features
 
 ### 🔐 **World ID Authentication**
