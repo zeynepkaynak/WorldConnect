@@ -323,7 +323,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: Check this README and inline comments
-- **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Join GitHub Discussions for questions
 - **Email**: Contact the development team
 
